@@ -1,0 +1,493 @@
+#header
+    {
+        height: 140px;
+width: 100%;
+        background-color:#001f2b;
+   
+        margin-top: -7px;
+
+    }
+
+.btn   
+    {
+
+        height: 50px;
+        width: 110px;
+           
+
+    }
+
+
+        #btnh
+            {
+               /* margin-top: 10px; */
+                margin-left: 150px;
+            }
+  #btnc
+            {
+                margin-left: 520px;
+                margin-top: -124px;
+
+            }
+  #btna
+            {
+                margin-left: 700px;
+                margin-top: -172px;
+            }
+  
+
+            
+           
+           
+        #nasa
+        {
+            height: 80px;
+            width: 1000px;
+            /* background-color: darkblue; */
+            margin-left:350px;
+            margin-top: 20px;
+        }
+.logo  
+{
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-top: -18px;
+    margin-left: 14px;
+}
+
+.main
+{
+    height: 500px;
+    width: 100%;
+    background-color:#00415a;
+}
+/* 
+.btn{
+
+    margin-left: 40px;
+} */
+
+.flex-container{
+  margin-left: 100px;
+}
+
+/* .btn{
+    float: left;
+} */
+
+.dropdown-item {
+    background-color:green;
+  }
+
+
+
+
+
+
+#dropdownMenu1
+{
+    margin-left: 340px;
+    margin-top: -78px ;
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+
+  
+.dropdown-submenu {
+    position: relative;
+    
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+.d-block
+{
+    height: 450px;
+    
+}
+
+
+#carouselExampleIndicators
+{
+
+    height: 450px;
+    width: 1000px;
+    margin-left: 160px;
+}
+
+
+  /* .logod
+    {
+        height: 220px;
+        width: 400px;
+        background-color: royalblue;
+        /* margin-left: 10px; */
+        /* margin-top: 30px;
+        float: left;
+        border: solid blue ;
+        border-width: 3px;
+     
+
+    }   */
+
+    .webd
+        {
+            height: 220px;
+            width: 400px;
+            background-color: #00719c;
+            margin-left: 940px;
+            margin-top: -220px;
+            border: solid blue;
+            border-width: 3px;
+
+        }
+
+.ad
+        {
+
+            height: 220px;
+            width: 400px;
+            background-color: #00719c;
+            margin-left: 475px;
+            margin-top: 30px;
+            border: solid blue;
+            border-width: 3px;
+
+        }
+
+
+        h4
+            {
+                color: white;
+                font-family: cursive;
+            }
+
+#logi   
+{
+    height: 150px;
+    width: 150px;
+}
+
+
+#tiles
+    {
+
+        height: 800px;
+
+    }
+
+
+#webi   
+{
+    height: 150px;
+    width: 150px;
+    /* margin-left: 140px; */
+}    
+
+#adi
+    {
+     height: 150px;
+    width: 150px;
+    /* margin-left: 110px; */
+    /* margin-top: -300px; */
+
+    }
+
+#about
+    {
+        height: 400px;
+        width: 100%;
+        background-color: #00719c;
+
+    }
+
+
+
+
+
+
+    .flip-card {
+        /* background-color: white; */
+        width: 300px;
+        height: 300px;
+        perspective: 1000px;
+        float: left;
+        margin-top: 20px;
+        margin-left: 160px;
+      }
+      
+      .flip-card-inner {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        transition: transform 0.6s;
+        transform-style: preserve-3d;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      }
+      
+      .flip-card:hover .flip-card-inner {
+        transform: rotateY(180deg);
+      }
+      
+      .flip-card-front, .flip-card-back {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+      }
+      
+      .flip-card-front {
+        background-color: #0890a8;
+        color: black;
+      }
+      
+      .flip-card-back {
+        background-color: rgba(0, 255, 149, 0.918);
+        color: white;
+        transform: rotateY(180deg);
+
+      }
+
+
+
+
+
+      .flip-card2 {
+        /* background-color: white; */
+        width: 300px;
+        height: 300px;
+        perspective: 1000px;
+        float: left;
+        margin-top: 20px;
+        margin-left: 40px;
+      }
+      
+      .flip-card2-inner {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        transition: transform 0.6s;
+        transform-style: preserve-3d;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      }
+      
+      .flip-card2:hover .flip-card2-inner {
+        transform: rotateY(180deg);
+      }
+      
+      .flip-card2-front, .flip-card2-back {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+      }
+      
+      .flip-card2-front {
+        background-color: #0890a8;
+        color: black;
+      }
+      
+      .flip-card2-back {
+        background-color: rgba(0, 255, 149, 0.918);
+        color: white;
+        transform: rotateY(180deg);
+
+      }
+
+
+
+
+
+
+      .flip-card3 {
+        /* background-color: white; */
+        width: 300px;
+        height: 300px;
+        perspective: 1000px;
+        float: left;
+        margin-left: 50px;
+        margin-top: 20px;
+        
+      }
+      
+      .flip-card3-inner {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        transition: transform 0.6s;
+        transform-style: preserve-3d;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      }
+      
+      .flip-card3:hover .flip-card3-inner {
+        transform: rotateY(180deg);
+      }
+      
+      .flip-card3-front, .flip-card3-back {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+      }
+      
+      .flip-card3-front {
+        background-color: #0890a8;
+        color: black;
+      }
+      
+      .flip-card3-back {
+        background-color: rgba(0, 255, 149, 0.918);
+        color: white;
+        transform: rotateY(180deg);
+
+      }
+
+
+
+#footer
+      {
+        height: 300px;
+        width: 100%;
+        background-color: #00b8ff;
+      }
+
+.display-4
+      {
+        margin-left: 20px;
+        float: left;
+        color: white;
+
+      }
+
+  #tt 
+      {
+        margin-left: 60px;
+        float: left;
+        color: white;
+      }
+
+  h3
+    {
+      float: right;
+      color: white;
+    }    
+
+
+    #subbu
+      {
+        margin-left: -200px;
+        margin-top: 90px;
+        color: white;
+      }
+
+      #qazi 
+      {
+        margin-top: 60px;
+        margin-left: 200px;
+        color: white;
+      }
+
+
+      #se
+        {
+          margin-right: 850px;
+          color: white;
+        }
+
+        #sss
+          {
+            margin-left: 110px;
+            margin-top: 10px;
+            float: left;
+            color: white;
+          }
+
+#num
+          {
+            margin-left: -425px;
+            margin-top:  10px;
+            float: left;
+            color: white;
+          }
+
+          #qqq
+          {
+            margin-left: 220px;
+            margin-top: -40px;
+            float: left;
+            color: white;
+          }
+
+
+
+          label{
+
+            margin-left: 160px;
+            color: white;
+          }
+
+
+
+          .name{
+
+            margin-left: 163px;
+          }
+          
+          #submit{
+            margin-left: 363px;
+            margin-top: 10px;
+          }
